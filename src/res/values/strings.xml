@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    This file is part of Easy Voice.
+
+    Easy Voice is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Easy Voice is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Easy Voice.  If not, see <http://www.gnu.org/licenses/>.
+    -->
+    <string name="app_name">Easy Voice</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="add_message">Add Message</string>
+    <string name="edit_message">Edit Message</string>
+    <string name="title_activity_message_detail">MessageDetail</string>
+    <string name="display">Display</string>
+    <string name="default_display_name">Short Name</string>
+    <string name="content">Content</string>
+    <string name="save_button">Save</string>
+    <string name="update_button">Update</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="delete_message">Delete Message</string>
+
+</resources>
